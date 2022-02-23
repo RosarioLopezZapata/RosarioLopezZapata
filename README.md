@@ -2,7 +2,7 @@
 
 ******
 
-## Habilidades 
+## Skills 
 
 <p width='40%' height="100%"align="center"> 
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="html5"             width="50" height="50"/> </a>   
@@ -27,7 +27,7 @@
  
 ******
 
-### - 📫 Cómo contactarme: ...
+### - 📫 Contact me:
    <p>   
       <a align='right' href="mailto:rosariolopezz.sm@gmail.com">
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="50" width="50"/>
