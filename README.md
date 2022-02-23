@@ -33,7 +33,7 @@
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="50" width="50"/>
       </a>  
       <a href="https://www.linkedin.com/in/rosariolopezzapata/">
-         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Catriel Acevey LinkedIn Profile" height="50" width="50">
+         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="" height="50" width="50">
       </a>
    </p>
    
