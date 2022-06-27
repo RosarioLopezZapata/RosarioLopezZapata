@@ -29,7 +29,7 @@
 
 ### - 📫 Contact me:
    <p>   
-      <a align='right' href="mailto:rosariolopezz.sm@gmail.com">
+      <a align='right' href="mailto:rosariolopezsmz@gmail.com">
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="50" width="50"/>
       </a>  
       <a href="https://www.linkedin.com/in/rosariolopezzapata/">
