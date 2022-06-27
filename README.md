@@ -1,4 +1,4 @@
-<img src="https://github.com/RosarioLopezZapata/RosarioLopezZapata/blob/main/readme_img.png?raw=true">
+<img src="https://github.com/RosarioLopezZapata/RosarioLopezZapata/blob/main/readme.png?raw=true">
 
 ******
 
